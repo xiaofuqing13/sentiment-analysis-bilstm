@@ -60,7 +60,13 @@ pip install torch torchvision torchaudio scikit-learn matplotlib seaborn
 python main.py
 ```
 
-### 输出
+#
+
+### 训练结果
+
+![训练结果](images/training_results.png)
+
+## 输出
 
 - 每个 Epoch 的训练/验证损失和准确率
 - 测试集分类报告（Precision/Recall/F1）
