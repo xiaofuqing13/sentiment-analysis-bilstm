@@ -1,5 +1,8 @@
 # Sentiment Analysis with Bidirectional LSTM
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-green)
+
+
 基于 **双向 LSTM（BiLSTM）** 的文本情绪分类系统。使用 PyTorch 从零实现完整的 NLP 流水线：文本预处理 → 词汇表构建 → 序列编码 → 模型训练 → 可视化评估。
 
 ## 项目目的
