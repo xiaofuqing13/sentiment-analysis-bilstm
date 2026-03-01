@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Data
+aclImdb/
+
+# macOS
+.DS_Store
+._*
+
+# IDE
+.idea/
+.vscode/
+
+# PDF
+*.pdf
